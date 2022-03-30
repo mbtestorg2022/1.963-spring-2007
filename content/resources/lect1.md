@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes with an introduction to transportation at MIT.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/32b70b2c0b20960773d5c661f7629b38_lect1.pdf
 file_type: application/pdf
+parent_uid: 76110f79-4b8c-13f5-3f24-388a56a06245
 resourcetype: Document
 title: lect1.pdf
 uid: 32b70b2c-0b20-9607-73d5-c661f7629b38
